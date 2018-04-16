@@ -1,93 +1,13 @@
 fileFormatVersion: 2
-guid: f27e00383697a8440bb22517924bab43
-timeCreated: 1523569871
+guid: 1f058320d45748c4b80683f08e6734ff
+timeCreated: 1523818285
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
-  fileIDToRecycleName:
-    100000: Cap_1
-    100002: Cap_1_2
-    100004: Cap_1_3
-    100006: Cap_1_4
-    100008: Cap_2
-    100010: Cap_2_2
-    100012: Cap_2_3
-    100014: Cap_2_4
-    100016: Cloner
-    100018: Lathe
-    100020: Loft_0
-    100022: Loft_1
-    100024: Loft_2
-    100026: Loft_3
-    100028: //RootNode
-    100030: Tube
-    100032: Tube_1
-    400000: Cap_1
-    400002: Cap_1_2
-    400004: Cap_1_3
-    400006: Cap_1_4
-    400008: Cap_2
-    400010: Cap_2_2
-    400012: Cap_2_3
-    400014: Cap_2_4
-    400016: Cloner
-    400018: Lathe
-    400020: Loft_0
-    400022: Loft_1
-    400024: Loft_2
-    400026: Loft_3
-    400028: //RootNode
-    400030: Tube
-    400032: Tube_1
-    2100000: No Name
-    2300000: Cap_1
-    2300002: Cap_1_2
-    2300004: Cap_1_3
-    2300006: Cap_1_4
-    2300008: Cap_2
-    2300010: Cap_2_2
-    2300012: Cap_2_3
-    2300014: Cap_2_4
-    2300016: Lathe
-    2300018: Loft_0
-    2300020: Loft_1
-    2300022: Loft_2
-    2300024: Loft_3
-    2300026: Tube
-    2300028: Tube_1
-    3300000: Cap_1
-    3300002: Cap_1_2
-    3300004: Cap_1_3
-    3300006: Cap_1_4
-    3300008: Cap_2
-    3300010: Cap_2_2
-    3300012: Cap_2_3
-    3300014: Cap_2_4
-    3300016: Lathe
-    3300018: Loft_0
-    3300020: Loft_1
-    3300022: Loft_2
-    3300024: Loft_3
-    3300026: Tube
-    3300028: Tube_1
-    4300000: Lathe
-    4300002: Tube_1
-    4300004: Tube
-    4300006: Loft_0
-    4300008: Cap_1
-    4300010: Cap_2
-    4300012: Loft_1
-    4300014: Cap_1_2
-    4300016: Cap_2_2
-    4300018: Loft_2
-    4300020: Cap_1_3
-    4300022: Cap_2_3
-    4300024: Loft_3
-    4300026: Cap_1_4
-    4300028: Cap_2_4
+  fileIDToRecycleName: {}
   externalObjects: {}
   materials:
-    importMaterials: 0
+    importMaterials: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -159,7 +79,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 2
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
