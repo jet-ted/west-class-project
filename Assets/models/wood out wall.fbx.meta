@@ -28,6 +28,7 @@ ModelImporter:
     400018: Cylinder_9
     400020: //RootNode
     2100000: No Name
+    2100002: wood2
     2300000: Cylinder_0
     2300002: Cylinder_1
     2300004: Cylinder_2
@@ -96,7 +97,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0

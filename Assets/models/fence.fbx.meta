@@ -15,6 +15,7 @@ ModelImporter:
     100014: Sweep_3
     100016: Sweep_4
     100018: Sweep_5
+    100020: Cylinder_1_2
     400000: Cylinder
     400002: Cylinder_1
     400004: Cylinder_2
@@ -25,7 +26,10 @@ ModelImporter:
     400014: Sweep_3
     400016: Sweep_4
     400018: Sweep_5
+    400020: Cylinder_1_2
     2100000: No Name
+    2100002: metal
+    2100004: wood2
     2300000: Cylinder_1
     2300002: Cylinder_2
     2300004: Sweep
@@ -34,6 +38,7 @@ ModelImporter:
     2300010: Sweep_3
     2300012: Sweep_4
     2300014: Sweep_5
+    2300016: Cylinder_1_2
     3300000: Cylinder_1
     3300002: Cylinder_2
     3300004: Sweep
@@ -42,6 +47,7 @@ ModelImporter:
     3300010: Sweep_3
     3300012: Sweep_4
     3300014: Sweep_5
+    3300016: Cylinder_1_2
     4300000: Sweep_5
     4300002: Sweep_4
     4300004: Sweep_3
@@ -50,7 +56,18 @@ ModelImporter:
     4300010: Sweep
     4300012: Cylinder_1
     4300014: Cylinder_2
-  externalObjects: {}
+    4300016: Cylinder_1_2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal
+    second: {fileID: 2100000, guid: 3d91e76e9b430c546aa715d9f363ecd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood2
+    second: {fileID: 2100000, guid: 5bd19c34040f89249ad95208dde64715, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -88,7 +105,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0

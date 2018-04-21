@@ -26,6 +26,7 @@ ModelImporter:
     400016: Cube_2_6
     400018: //RootNode
     2100000: No Name
+    2100002: wood3
     2300000: Cube
     2300002: Cube_1
     2300004: Cube_2
@@ -88,7 +89,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0

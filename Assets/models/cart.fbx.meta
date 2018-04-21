@@ -134,6 +134,8 @@ ModelImporter:
     400124: Tube
     400126: Tube_2
     2100000: No Name
+    2100002: metal
+    2100004: wood3
     2300000: Cube_1
     2300002: Cube_1_2
     2300004: Cube_2
@@ -281,7 +283,17 @@ ModelImporter:
     4300092: Cube_2_4_4
     4300094: Cylinder_10
     4300096: Cylinder_11
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal
+    second: {fileID: 2100000, guid: 3d91e76e9b430c546aa715d9f363ecd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood3
+    second: {fileID: 2100000, guid: 8c1645a91435d2146888ba19cb7d72fd, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -319,7 +331,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0

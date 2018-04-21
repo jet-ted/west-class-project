@@ -8,6 +8,9 @@ ModelImporter:
     100000: //RootNode
     400000: //RootNode
     2100000: No Name
+    2100002: flower
+    2100004: cactus
+    2100006: thorn
     2300000: //RootNode
     3300000: //RootNode
     4300000: Subdivision_Surface_1
@@ -49,7 +52,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0

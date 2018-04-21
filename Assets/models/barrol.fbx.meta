@@ -51,6 +51,18 @@ ModelImporter:
     100086: Symmetry_1
     100088: Tube
     100090: Tube_1
+    100092: Cube_0_2
+    100094: Cube_10_2
+    100096: Cube_11_2
+    100098: Cube_1_2
+    100100: Cube_2_2
+    100102: Cube_3_2
+    100104: Cube_4_2
+    100106: Cube_5_2
+    100108: Cube_6_2
+    100110: Cube_7_2
+    100112: Cube_8_2
+    100114: Cube_9_2
     400000: //RootNode
     400002: Cloner
     400004: Cloner_1
@@ -97,7 +109,21 @@ ModelImporter:
     400086: Symmetry_1
     400088: Tube
     400090: Tube_1
+    400092: Cube_0_2
+    400094: Cube_10_2
+    400096: Cube_11_2
+    400098: Cube_1_2
+    400100: Cube_2_2
+    400102: Cube_3_2
+    400104: Cube_4_2
+    400106: Cube_5_2
+    400108: Cube_6_2
+    400110: Cube_7_2
+    400112: Cube_8_2
+    400114: Cube_9_2
     2100000: No Name
+    2100002: wood3
+    2100004: metal
     2300000: Cube_0
     2300002: Cube_1
     2300004: Cube_10
@@ -137,6 +163,18 @@ ModelImporter:
     2300072: Disc
     2300074: Tube
     2300076: Tube_1
+    2300078: Cube_0_2
+    2300080: Cube_10_2
+    2300082: Cube_11_2
+    2300084: Cube_1_2
+    2300086: Cube_2_2
+    2300088: Cube_3_2
+    2300090: Cube_4_2
+    2300092: Cube_5_2
+    2300094: Cube_6_2
+    2300096: Cube_7_2
+    2300098: Cube_8_2
+    2300100: Cube_9_2
     3300000: Cube_0
     3300002: Cube_1
     3300004: Cube_10
@@ -176,6 +214,18 @@ ModelImporter:
     3300072: Disc
     3300074: Tube
     3300076: Tube_1
+    3300078: Cube_0_2
+    3300080: Cube_10_2
+    3300082: Cube_11_2
+    3300084: Cube_1_2
+    3300086: Cube_2_2
+    3300088: Cube_3_2
+    3300090: Cube_4_2
+    3300092: Cube_5_2
+    3300094: Cube_6_2
+    3300096: Cube_7_2
+    3300098: Cube_8_2
+    3300100: Cube_9_2
     4300000: Disc
     4300002: Cylinder_0
     4300004: Cylinder_1
@@ -215,7 +265,29 @@ ModelImporter:
     4300072: Cube_9
     4300074: Cube_10
     4300076: Cube_11
-  externalObjects: {}
+    4300078: Cube_0_2
+    4300080: Cube_1_2
+    4300082: Cube_2_2
+    4300084: Cube_3_2
+    4300086: Cube_4_2
+    4300088: Cube_5_2
+    4300090: Cube_6_2
+    4300092: Cube_7_2
+    4300094: Cube_8_2
+    4300096: Cube_9_2
+    4300098: Cube_10_2
+    4300100: Cube_11_2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal
+    second: {fileID: 2100000, guid: 3d91e76e9b430c546aa715d9f363ecd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood3
+    second: {fileID: 2100004, guid: 637347513363183438c8673a6d57426e, type: 3}
   materials:
     importMaterials: 1
     materialName: 0
@@ -245,7 +317,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 0.5
     meshCompression: 0
     addColliders: 0
     importVisibility: 1
@@ -253,7 +325,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
