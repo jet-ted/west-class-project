@@ -122,6 +122,7 @@ ModelImporter:
     100228: Cylinder_4_11
     100230: Cylinder_5_11
     100232: Cylinder_6_9
+    100234: Cylinder_7_8
     400000: //RootNode
     400002: Cloner
     400004: Cloner_1
@@ -239,9 +240,11 @@ ModelImporter:
     400228: Cylinder_4_11
     400230: Cylinder_5_11
     400232: Cylinder_6_9
+    400234: Cylinder_7_8
     2100000: No Name
     2100002: wood2
     2100004: wood1
+    2100006: wood3
     2300000: //RootNode
     2300002: Cube
     2300004: Cube_1
@@ -353,6 +356,7 @@ ModelImporter:
     2300216: Cylinder_4_11
     2300218: Cylinder_5_11
     2300220: Cylinder_6_9
+    2300222: Cylinder_7_8
     3300000: //RootNode
     3300002: Cube
     3300004: Cube_1
@@ -464,6 +468,7 @@ ModelImporter:
     3300216: Cylinder_4_11
     3300218: Cylinder_5_11
     3300220: Cylinder_6_9
+    3300222: Cylinder_7_8
     4300000: Cube
     4300002: Cylinder_0
     4300004: Cylinder_1
@@ -574,6 +579,7 @@ ModelImporter:
     4300214: Cylinder_4_11
     4300216: Cylinder_5_11
     4300218: Cylinder_6_9
+    4300220: Cylinder_7_8
   externalObjects: {}
   materials:
     importMaterials: 1

@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: da9f8290f16b7514b993adc552be46c1
-timeCreated: 1523995582
+guid: 5280ee4b21b89a84aad1811ff418cd33
+timeCreated: 1523921110
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
@@ -74,6 +74,10 @@ ModelImporter:
     400064: Tube
     400066: //RootNode
     2100000: No Name
+    2100002: metal
+    2100004: wood3
+    2100006: wood1
+    2100008: wood2
     2300000: Cube
     2300002: Cube_1
     2300004: Cube_1_0
@@ -205,7 +209,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0

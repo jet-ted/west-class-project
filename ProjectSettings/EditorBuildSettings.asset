@@ -4,4 +4,13 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/scenes/player controller.unity
+    guid: 95097881e6e036b42807352a77c54aa1
+  - enabled: 1
+    path: Assets/scenes/newfort.unity
+    guid: 97a910c6e2f4cfd48b9c06197762d04d
+  - enabled: 1
+    path: Assets/scenes/art.unity
+    guid: f0e3817db70770c40824b89f29690951

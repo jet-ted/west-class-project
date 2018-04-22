@@ -121,6 +121,11 @@ ModelImporter:
     100226: //RootNode
     100228: Cube_2
     100230: Symmetry
+    100232: Cube_2_2
+    100234: Cube_3
+    100236: Symmetry_1
+    100238: Cube_2_3
+    100240: Symmetry_2
     400000: Cloner_1
     400002: Cloner_4
     400004: Cloner_5
@@ -237,7 +242,17 @@ ModelImporter:
     400226: //RootNode
     400228: Cube_2
     400230: Symmetry
+    400232: Cube_2_2
+    400234: Cube_3
+    400236: Symmetry_1
+    400238: Cube_2_3
+    400240: Symmetry_2
     2100000: No Name
+    2100002: wood1
+    2100004: wood2
+    2100006: wood3
+    2100008: metal
+    2100010: wood1.1
     2300000: Cube
     2300002: Cube_1
     2300004: Cylinder
@@ -349,6 +364,9 @@ ModelImporter:
     2300216: Cylinder_9_6
     2300218: Cylinder_9_7
     2300220: Cube_2
+    2300222: Cube_2_2
+    2300224: Cube_3
+    2300226: Cube_2_3
     3300000: Cube
     3300002: Cube_1
     3300004: Cylinder
@@ -460,6 +478,9 @@ ModelImporter:
     3300216: Cylinder_9_6
     3300218: Cylinder_9_7
     3300220: Cube_2
+    3300222: Cube_2_2
+    3300224: Cube_3
+    3300226: Cube_2_3
     4300000: Cube
     4300002: Cylinder_6
     4300004: Cylinder_5
@@ -571,6 +592,9 @@ ModelImporter:
     4300216: Cylinder_9_7
     4300218: Cube_1
     4300220: Cube_2
+    4300222: Cube_3
+    4300224: Cube_2_2
+    4300226: Cube_2_3
   externalObjects: {}
   materials:
     importMaterials: 1
